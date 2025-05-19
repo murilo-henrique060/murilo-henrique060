@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou o Murilo
 <!--Redes sociais--->
-![Instagram](https://img.shields.io/badge/murilo.conde.9-%23FF0069?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fmurilo.conde.9%2F)
+<a href="https://www.instagram.com/murilo.conde.9/"><img alt="Instagram" src="https://img.shields.io/badge/murilo.conde.9-%23FF0069?style=for-the-badge&logo=Instagram" /></a>
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=murilo-henrique060&repo=murilo-henrique060&countColorcountColor&countColor=%237B1E7B"/>
 
 [![Codewars Badge](https://www.codewars.com/users/murilo-henrique060/badges/large)](https://www.codewars.com/users/murilo-henrique060)
