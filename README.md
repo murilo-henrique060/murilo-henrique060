@@ -1,5 +1,6 @@
 # Olá 👋, Eu sou o Murilo
 <!--Redes sociais--->
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
 
 [![Codewars Badge](https://www.codewars.com/users/murilo-henrique060/badges/large)](https://www.codewars.com/users/murilo-henrique060)
 
