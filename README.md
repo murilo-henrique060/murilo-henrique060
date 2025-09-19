@@ -22,7 +22,7 @@
 
 ## Contribuições
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=murilo-henrique060&theme=dracula" alt="mystreak"/>
+![murilo-henrique060's Streak](https://github-readme-streak-stats.herokuapp.com/?user=murilo-henrique060&theme=dracula&hide_border=true)
 
 ### Linguagens
 
